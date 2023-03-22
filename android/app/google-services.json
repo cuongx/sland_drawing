@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486156265588",
+    "project_id": "vtranslate-bed95",
+    "storage_bucket": "vtranslate-bed95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486156265588:android:dfd2ccbd0318b2fd988921",
+        "android_client_info": {
+          "package_name": "com.xcuong.temp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486156265588-8ud1mlc8975ja5cc7illretr697d767s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0w-F0O50odEPf24Xcj44bGJYswq5deGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486156265588-8ud1mlc8975ja5cc7illretr697d767s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
